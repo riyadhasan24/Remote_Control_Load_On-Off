@@ -1,3 +1,7 @@
+/* The source Code from : https://github.com/riyadhasan24
+ * By Md. Riyad Hasan
+ */
+
 #include <IRremote.h>
 
 int Receive_PIN = 2;
